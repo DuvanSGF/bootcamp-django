@@ -7,3 +7,5 @@ class Product(models.Model):
     description = models.TextField()
     price       = models.CharField(max_length=50)
     summary     = models.TextField(default='This is cool!')
+
+#Prueba de ssh

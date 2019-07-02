@@ -8,4 +8,4 @@ class Product(models.Model):
     price       = models.CharField(max_length=50)
     summary     = models.TextField(default='This is cool!')
 
-#Prueba de ssh
+#Prueba de ssh1
